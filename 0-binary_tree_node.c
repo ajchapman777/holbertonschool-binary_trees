@@ -3,7 +3,7 @@
  * binary_tree_node - creates a binary tree node
  * @parent: A pointer to a parent of the node to create
  * @value: the value to put in the new node
- * Return: if error returns NULL, 
+ * Return: if error returns NULL,
  * otherwise a pointer to the new node
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
